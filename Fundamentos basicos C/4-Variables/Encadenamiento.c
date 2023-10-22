@@ -7,8 +7,7 @@ int main(int argc, char *argv[]){
     char nombre[]="Alfonso ";
     char apellido[]="Lopez";
     
-    strcat(nombre,apellido);
-    printf("Mi nombre completo es: %s \n",nombre);
+    
     
     printf("El numero es: %i \n", num);
     num+=5;
